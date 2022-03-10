@@ -1,1 +1,1 @@
-# dynamic_LOTR_LCG_pages_JS
+Testing out a way to select a LOTR LCG player card and have it shown in a dynamic HTML page
